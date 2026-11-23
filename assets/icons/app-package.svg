@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <!-- 3D Package Isometric Cube for .zero app -->
+  <!-- Top Face -->
+  <polygon points="64,18 104,38 64,58 24,38" fill="#F0EEE6" stroke="#2B2A27" stroke-width="3.5" stroke-linejoin="round"/>
+  <!-- Left Face -->
+  <polygon points="24,38 64,58 64,106 24,86" fill="#D97757" stroke="#2B2A27" stroke-width="3.5" stroke-linejoin="round"/>
+  <!-- Right Face -->
+  <polygon points="64,58 104,38 104,86 64,106" fill="#D4A373" stroke="#2B2A27" stroke-width="3.5" stroke-linejoin="round"/>
+  <!-- Tape band across top -->
+  <line x1="44" y1="28" x2="84" y2="48" stroke="#2B2A27" stroke-width="2" stroke-dasharray="3 3"/>
+  <!-- The ".zero" mark on front -->
+  <circle cx="44" cy="76" r="10" fill="none" stroke="#FAF8F5" stroke-width="2.5"/>
+  <circle cx="51" cy="73" r="2" fill="#2B2A27"/>
+  <text x="68" y="86" font-family="sans-serif" font-weight="900" font-size="16" fill="#2B2A27">.zero</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <!-- Folder Back Plate -->
+  <path d="M 18 36 C 18 30 22 26 28 26 L 50 26 C 54 26 58 29 61 33 L 67 40 L 102 40 C 108 40 112 44 112 50 L 112 94 C 112 100 108 104 102 104 L 26 104 C 20 104 18 100 18 94 Z" 
+        fill="#E5DDD0" stroke="#2B2A27" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Inner Sheet paper -->
+  <path d="M 28 44 L 100 44 L 98 62 L 28 62 Z" fill="#FDFCF7" stroke="#2B2A27" stroke-width="2"/>
+  <!-- Folder Front Flap -->
+  <path d="M 16 52 C 16 46 20 44 26 44 L 104 44 C 110 44 114 47 113 54 L 107 96 C 106 102 101 106 95 106 L 23 106 C 17 106 14 102 15 96 Z" 
+        fill="#D97757" stroke="#2B2A27" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Zeroth Ring mini badge on folder -->
+  <circle cx="64" cy="76" r="12" fill="none" stroke="#F0EEE6" stroke-width="3"/>
+  <circle cx="73" cy="73" r="2.5" fill="#2B2A27"/>
+</svg>

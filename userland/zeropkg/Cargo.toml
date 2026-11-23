@@ -1,0 +1,7 @@
+[package]
+name = "zeropkg"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# zeropkg uses standard Rust when compiling build tools / host tools

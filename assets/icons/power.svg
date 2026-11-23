@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <!-- Power button circle -->
+  <circle cx="64" cy="64" r="50" fill="#FAF8F5" stroke="#2B2A27" stroke-width="3.5"/>
+  <!-- Power symbol broken ring -->
+  <path d="M 44 42 A 32 32 0 1 0 84 42" fill="none" stroke="#D97757" stroke-width="6" stroke-linecap="round"/>
+  <!-- Power symbol vertical line -->
+  <line x1="64" y1="26" x2="64" y2="58" stroke="#D97757" stroke-width="6" stroke-linecap="round"/>
+</svg>

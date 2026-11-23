@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <rect x="14" y="20" width="100" height="88" rx="14" fill="#2B2A27" stroke="#3D3B35" stroke-width="3" stroke-linecap="round"/>
+  <!-- Window top bar with hand-drawn dots -->
+  <line x1="16" y1="42" x2="112" y2="42" stroke="#45423B" stroke-width="2"/>
+  <circle cx="28" cy="31" r="3.5" fill="#D97757"/>
+  <circle cx="40" cy="31" r="3.5" fill="#D4A373"/>
+  <circle cx="52" cy="31" r="3.5" fill="#7C7871"/>
+  <!-- Terminal Prompt: >_ -->
+  <path d="M 32 58 L 46 70 L 32 82" fill="none" stroke="#F0EEE6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="56" y1="82" x2="74" y2="82" stroke="#D97757" stroke-width="4.5" stroke-linecap="round"/>
+  <!-- Subtle hand-drawn sparkle -->
+  <path d="M 94 56 L 94 62 M 91 59 L 97 59" stroke="#D4A373" stroke-width="2" stroke-linecap="round"/>
+</svg>

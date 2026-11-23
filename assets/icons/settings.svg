@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <!-- Hand-drawn Cog / Gear -->
+  <path d="M 56 18 L 72 18 L 74 29 C 78 31 82 33 86 36 L 96 30 L 107 41 L 101 51 C 103 55 105 59 107 63 L 118 65 L 118 81 L 107 83 C 105 87 103 91 101 95 L 107 105 L 96 116 L 86 110 C 82 113 78 115 74 117 L 72 128 L 56 128 L 54 117 C 50 115 46 113 42 110 L 32 116 L 21 105 L 27 95 C 25 91 23 87 21 83 L 10 81 L 10 65 L 21 63 C 23 59 25 55 27 51 L 21 41 L 32 30 L 42 36 C 46 33 50 31 54 29 Z" 
+        transform="scale(0.85) translate(10, 10)"
+        fill="#E8E2D5" stroke="#2B2A27" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Center cutout ring -->
+  <circle cx="64" cy="64" r="16" fill="#FAF8F5" stroke="#2B2A27" stroke-width="3.5"/>
+  <circle cx="64" cy="64" r="8" fill="#D97757"/>
+</svg>

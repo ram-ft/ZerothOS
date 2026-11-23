@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "kernel",
+    "userland/zeropkg",
+]
+resolver = "2"

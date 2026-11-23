@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <!-- Note Sheet -->
+  <path d="M 28 20 L 78 20 L 100 42 L 100 108 L 28 108 Z" fill="#FAF8F5" stroke="#2B2A27" stroke-width="3.5" stroke-linejoin="round"/>
+  <!-- Folded Dog Ear -->
+  <path d="M 78 20 L 78 42 L 100 42" fill="#E8E2D5" stroke="#2B2A27" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Code lines -->
+  <line x1="40" y1="52" x2="86" y2="52" stroke="#2B2A27" stroke-width="3" stroke-linecap="round"/>
+  <line x1="40" y1="66" x2="76" y2="66" stroke="#D97757" stroke-width="3" stroke-linecap="round"/>
+  <line x1="40" y1="80" x2="82" y2="80" stroke="#2B2A27" stroke-width="3" stroke-linecap="round"/>
+  <line x1="40" y1="94" x2="60" y2="94" stroke="#7C7871" stroke-width="3" stroke-linecap="round"/>
+</svg>

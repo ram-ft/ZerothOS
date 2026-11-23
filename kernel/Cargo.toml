@@ -1,0 +1,7 @@
+[package]
+name = "zeroth-kernel"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# Zeroth Kernel is 100% self-contained no_std bare-metal

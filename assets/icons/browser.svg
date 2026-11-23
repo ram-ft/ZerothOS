@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <!-- Globe / Compass Navigation -->
+  <circle cx="64" cy="64" r="48" fill="#FAF8F5" stroke="#2B2A27" stroke-width="3.5"/>
+  <!-- Latitudes & Longitudes (sketchy) -->
+  <ellipse cx="64" cy="64" rx="24" ry="48" fill="none" stroke="#2B2A27" stroke-width="2.5" stroke-dasharray="4 2"/>
+  <line x1="16" y1="64" x2="112" y2="64" stroke="#2B2A27" stroke-width="2.5"/>
+  <path d="M 23 40 Q 64 52 105 40" fill="none" stroke="#2B2A27" stroke-width="2"/>
+  <path d="M 23 88 Q 64 76 105 88" fill="none" stroke="#2B2A27" stroke-width="2"/>
+  <!-- Terracotta Compass Needle -->
+  <polygon points="64,30 72,64 64,58 56,64" fill="#D97757" stroke="#2B2A27" stroke-width="2"/>
+  <polygon points="64,98 72,64 64,58 56,64" fill="#2B2A27" stroke="#2B2A27" stroke-width="2"/>
+  <circle cx="64" cy="64" r="3" fill="#FAF8F5"/>
+</svg>
